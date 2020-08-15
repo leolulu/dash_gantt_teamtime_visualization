@@ -1,5 +1,6 @@
 # dash_gantt_teamtime_visualization
 
+## 数据表
 
 |中文|英文|必填与否|备注|
 |-|-|-|-|
@@ -15,3 +16,11 @@
 |看板链接|board_url||		
 |开始时间|btime|必填|	类似9.5  ->  9:30这种
 |结束时间|etime|必填|	类似18  ->  18:00这种
+
+## 参考文献
+https://dash.plotly.com/interactive-graphing
+https://plotly.com/python/line-and-scatter/
+https://plotly.com/python/bar-charts/
+https://plotly.com/python/gantt/
+https://plotly.com/python/time-series/
+https://dash.plotly.com/dash-core-components/graph
